@@ -1,0 +1,17 @@
+George Orwell, 1984, 1949, 328, 12.5
+Jane Austen, Pride and Prejudice, 1813, 432, 13.0
+Ray Bradbury, Fahrenheit 451, 1953, 194, 8.0
+J.R.R. Tolkien, The Hobbit, 1937, 310, 13.0
+Harper Lee, To Kill a Mockingbird, 1960, 336, 14.0
+William Golding, Lord of the Flies, 1954, 224, 9.0
+Margaret Atwood, The Handmaid's Tale, 1985, 311, 14.0
+Oscar Wilde, The Picture of Dorian Gray, 1890, 254, 9.5
+John Green, The Fault in Our Stars, 2012, 313, 12.0
+Chinua Achebe, Things Fall Apart, 1958, 209, 10.0
+Neil Gaiman, Coraline, 2002, 192, 9.0
+
+
+
+
+
+
