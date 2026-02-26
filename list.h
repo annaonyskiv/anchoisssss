@@ -13,11 +13,10 @@ typedef struct Book {
 
 Book* InsertSortedByLastName(Book* head, Book data);
 Book* DeleteByInitial(Book* head);
-void  ReadFromFile(Book** ppHead, const char* filename);
-void  PrintList(Book* head);
-void  FreeList(Book** ppHead);
+void ReadFromFile(Book** ppHead, const char* filename);
+void PrintList(Book* head);
+void FreeList(Book** ppHead);
 double AveragePrice(Book* head);
 Book* BuildBelowAverageList(Book* head, double avg);
-Book* AddBookFromKeyboard(Book* head); /* НОВА */
 
 #endif
